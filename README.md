@@ -16,9 +16,10 @@ This project demonstrates the power of **Recurrent Neural Networks (RNNs)** for 
 
 ## 🖥️ Demo UI  
 
-<img src="[https://github.com/user-attachments/assets/next-word-ui-example.png](https://github.com/SachinKukkar/Next_Word_Predictor_Project_LSTM/blob/main/image.png)" alt="App Screenshot" width="800"/>
+<p align="center">
+  <img src="https://github.com/SachinKukkar/Next_Word_Predictor_Project_LSTM/blob/main/image.png?raw=true" alt="App Screenshot" width="800"/>
+</p>
 
-*(Replace with your app screenshot once ready!)*
 
 ---
 
